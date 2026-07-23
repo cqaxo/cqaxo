@@ -1,6 +1,6 @@
 ## Hi, I'm Jacob
 
-Data engineer building Python data pipelines with a focus on data quality and honest measurement. B.S. in Computer Science from Arizona State University (magna cum laude, 2026). Based in Atlanta, open to relocation.
+Data engineer building Python data pipelines with a focus on data quality and honest measurement. Based in Atlanta, open to relocation.
 
 ### Featured projects
 
